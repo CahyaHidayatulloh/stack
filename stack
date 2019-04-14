@@ -79,10 +79,11 @@ int main(int argc, char** argv) {
     sl->push(3);
     sl->push(2);
     sl->push(9);
-	sl->pop();
-	sl->pop();
-	sl->pop();
-	sl->pop();
+    s1->pop();
+    s1->pop();
+    s1->pop();
+    s1->pop();
+	
     sl->print();
 
     return 0;
